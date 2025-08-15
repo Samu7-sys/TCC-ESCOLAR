@@ -4,4 +4,4 @@ privei tbm pq perfil vai estar em manuntenção
 obg amor bjs te amo 
 
 naaaaaaaaaaaaaaaaaaaaa
-
+(aura farming☠☠☠☠)
