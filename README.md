@@ -46,7 +46,7 @@ Este é um projeto escolar desenvolvido como Trabalho de Conclusão de Curso (TC
 
 | 📄 **PÁGINA** | 🔗 **LINK DE ACESSO** | 📝 **DESCRIÇÃO** |
 |---------------|----------------------|-------------------|
-| 🏠 **Índice** | [Página Principal](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/indice.html) | Página inicial da loja |
+| 🏠 **Index** | [Página Principal](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/index.html) | Página inicial da loja |
 | 📝 **Cadastro** | [Fazer Cadastro](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/cadastro.html) | Registro de usuários |
 | 🔑 **Login** | [Área de Login](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/login.html) | Acesso à conta |
 | 🛒 **Carrinho** | [Carrinho de Compras](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/carrinho.html) | Itens selecionados |
