@@ -10,17 +10,19 @@
 
 ## 🌟 **SOBRE O PROJETO**
 
-Este é um projeto escolar desenvolvido como Trabalho de Conclusão de Curso (TCC) para o curso técnico em Desenvolvimento de Sistemas. O projeto demonstra as habilidades adquiridas durante o curso e representa o culminar do aprendizado em desenvolvimento web.
+Este é um projeto escolar desenvolvido como Trabalho de Conclusão de Curso (TCC) para o curso técnico em Desenvolvimento de Sistemas. O projeto consiste em um **sistema de e-commerce/loja virtual** que demonstra as habilidades adquiridas durante o curso em desenvolvimento web front-end.
 
 ---
 
 ## 🎯 **OBJETIVOS**
 
+- ✅ Desenvolver um **sistema de loja virtual** funcional
 - ✅ Aplicar conhecimentos em **HTML5**, **CSS3** e **JavaScript**
-- ✅ Criar uma interface responsiva e intuitiva
-- ✅ Demonstrar boas práticas de desenvolvimento
-- 🔄 **Futuro:** Integração com banco de dados
-- 🔄 **Futuro:** Funcionalidades avançadas
+- ✅ Criar sistema de **cadastro e login** de usuários
+- ✅ Implementar **carrinho de compras** interativo
+- ✅ Demonstrar **design responsivo** e interface intuitiva
+- 🔄 **Futuro:** Integração com banco de dados para persistência
+- 🔄 **Futuro:** Sistema de pagamento e finalização de pedidos
 
 ---
 
@@ -44,12 +46,12 @@ Este é um projeto escolar desenvolvido como Trabalho de Conclusão de Curso (TC
 
 | 📄 **PÁGINA** | 🔗 **LINK DE ACESSO** | 📝 **DESCRIÇÃO** |
 |---------------|----------------------|-------------------|
-| 🏠 **Home** | [Página Principal](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/) | Página inicial do projeto |
-| 📋 **Sobre** | [Sobre o Projeto](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/sobre.html) | Informações detalhadas |
-| 📞 **Contato** | [Entre em Contato](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/contato.html) | Formulário de contato |
-| 🎨 **Portfólio** | [Meus Trabalhos](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/portfolio.html) | Showcase de projetos |
-| 📚 **Cursos** | [Área de Cursos](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/cursos.html) | Seção educacional |
-| 🎯 **Serviços** | [Nossos Serviços](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/servicos.html) | Portfólio de serviços |
+| 🏠 **Índice** | [Página Principal](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/indice.html) | Página inicial da loja |
+| 📝 **Cadastro** | [Fazer Cadastro](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/cadastro.html) | Registro de usuários |
+| 🔑 **Login** | [Área de Login](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/login.html) | Acesso à conta |
+| 🛒 **Carrinho** | [Carrinho de Compras](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/carrinho.html) | Itens selecionados |
+| 💳 **Compra** | [Finalizar Compra](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/compra.html) | Checkout e pagamento |
+| 🆘 **Suporte** | [Atendimento](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/html/suporte.html) | Central de ajuda |
 
 </div>
 
@@ -60,22 +62,27 @@ Este é um projeto escolar desenvolvido como Trabalho de Conclusão de Curso (TC
 ```
 TCC-ESCOLAR/
 │
-├── 📄 index.html          # Página principal
-├── 📄 sobre.html          # Página sobre
-├── 📄 contato.html        # Página de contato  
-├── 📄 portfolio.html      # Página portfólio
+├── 📁 TCC/                    # Pasta principal do projeto
+│   ├── 📄 index.html          # Página principal
+│   ├── 📄 sobre.html          # Página sobre
+│   ├── 📄 contato.html        # Página de contato  
+│   ├── 📄 portfolio.html      # Página portfólio
+│   ├── 📄 cursos.html         # Página de cursos
+│   ├── 📄 servicos.html       # Página de serviços
+│   │
+│   ├── 🎨 css/
+│   │   ├── style.css          # Estilos principais
+│   │   └── responsive.css     # Design responsivo
+│   │
+│   ├── ⚡ js/
+│   │   ├── main.js           # Scripts principais
+│   │   └── animations.js     # Animações
+│   │
+│   └── 🖼️ assets/
+│       ├── images/           # Imagens do projeto
+│       └── icons/            # Ícones utilizados
 │
-├── 🎨 css/
-│   ├── style.css          # Estilos principais
-│   └── responsive.css     # Design responsivo
-│
-├── ⚡ js/
-│   ├── main.js           # Scripts principais
-│   └── animations.js     # Animações
-│
-└── 🖼️ assets/
-    ├── images/           # Imagens do projeto
-    └── icons/            # Ícones utilizados
+└── 📄 README.md              # Documentação do projeto
 ```
 
 ---
