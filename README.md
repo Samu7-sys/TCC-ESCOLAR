@@ -47,11 +47,11 @@ Este é um projeto escolar desenvolvido como Trabalho de Conclusão de Curso (TC
 | 📄 **PÁGINA** | 🔗 **LINK DE ACESSO** | 📝 **DESCRIÇÃO** |
 |---------------|----------------------|-------------------|
 | 🏠 **Index** | [Página Principal](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/index.html) | Página inicial da loja |
-| 📝 **Cadastro** | [Fazer Cadastro](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/HTML/cadastro.html) | Registro de usuários |
-| 🔑 **Login** | [Área de Login](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/HTML/login.html) | Acesso à conta |
-| 🛒 **Carrinho** | [Carrinho de Compras](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/HTML/carrinho.html) | Itens selecionados |
-| 💳 **Compra** | [Finalizar Compra](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/HTML/compra.html) | Checkout e pagamento |
-| 🆘 **Suporte** | [Atendimento](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/HTML/suporte.html) | Central de ajuda |
+| 📝 **Cadastro** | [Fazer Cadastro](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/cadastro.html) | Registro de usuários |
+| 🔑 **Login** | [Área de Login](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/login.html) | Acesso à conta |
+| 🛒 **Carrinho** | [Carrinho de Compras](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/carrinho.html) | Itens selecionados |
+| 💳 **Compra** | [Finalizar Compra](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/compra.html) | Checkout e pagamento |
+| 🆘 **Suporte** | [Atendimento](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/suporte.html) | Central de ajuda |
 
 </div>
 
