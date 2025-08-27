@@ -44,10 +44,12 @@ Este é um projeto escolar desenvolvido como Trabalho de Conclusão de Curso (TC
 
 | 📄 **PÁGINA** | 🔗 **LINK DE ACESSO** | 📝 **DESCRIÇÃO** |
 |---------------|----------------------|-------------------|
-| 🏠 **Home** | [Página Principal](https://samu7-sys.github.io/TCC-ESCOLAR/) | Página inicial do projeto |
-| 📋 **Sobre** | [Sobre o Projeto](https://samu7-sys.github.io/TCC-ESCOLAR/sobre.html) | Informações detalhadas |
-| 📞 **Contato** | [Entre em Contato](https://samu7-sys.github.io/TCC-ESCOLAR/contato.html) | Formulário de contato |
-| 🎨 **Portfólio** | [Meus Trabalhos](https://samu7-sys.github.io/TCC-ESCOLAR/portfolio.html) | Showcase de projetos |
+| 🏠 **Home** | [Página Principal](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/) | Página inicial do projeto |
+| 📋 **Sobre** | [Sobre o Projeto](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/sobre.html) | Informações detalhadas |
+| 📞 **Contato** | [Entre em Contato](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/contato.html) | Formulário de contato |
+| 🎨 **Portfólio** | [Meus Trabalhos](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/portfolio.html) | Showcase de projetos |
+| 📚 **Cursos** | [Área de Cursos](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/cursos.html) | Seção educacional |
+| 🎯 **Serviços** | [Nossos Serviços](https://samu7-sys.github.io/TCC-ESCOLAR/TCC/servicos.html) | Portfólio de serviços |
 
 </div>
 
