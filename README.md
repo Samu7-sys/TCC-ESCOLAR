@@ -72,7 +72,7 @@ TCC-ESCOLAR/
 │   │   └── 📄 suporte.html    # Página de suporte
 │   │
 │   ├── 🎨 css/                # Arquivos de estilo
-│   │   └── index.css          # Estilos principais
+│   │   └── style.css          # Estilos principais
 │   │
 │   ├── ⚡ JS/                 # Scripts JavaScript
 │   │   └── scripts.js         # Funcionalidades
