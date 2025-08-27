@@ -63,7 +63,7 @@ Este é um projeto escolar desenvolvido como Trabalho de Conclusão de Curso (TC
 TCC-ESCOLAR/
 │
 ├── 📁 TCC/                    # Pasta principal do projeto
-│   ├── 📁 HTML/               # Páginas HTML
+│   ├── 📁 html/               # Páginas HTML
 │   │   ├── 📄 cadastro.html   # Página de cadastro
 │   │   ├── 📄 carrinho.html   # Carrinho de compras
 │   │   ├── 📄 compra.html     # Finalização da compra
@@ -71,14 +71,14 @@ TCC-ESCOLAR/
 │   │   ├── 📄 login.html      # Página de login
 │   │   └── 📄 suporte.html    # Página de suporte
 │   │
-│   ├── 🎨 CSS/                # Arquivos de estilo
-│   │   └── style.css          # Estilos principais
+│   ├── 🎨 css/                # Arquivos de estilo
+│   │   └── index.css          # Estilos principais
 │   │
 │   ├── ⚡ JS/                 # Scripts JavaScript
 │   │   └── scripts.js         # Funcionalidades
 │   │
 │   └── 🖼️ IMAGES/            # Imagens e recursos visuais
-│       └── assets/            # Recursos do projeto
+│       └── pasta com as img/            # Recursos do projeto
 │
 └── 📄 README.md              # Documentação do projeto
 ```
