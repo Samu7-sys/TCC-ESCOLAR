@@ -77,8 +77,8 @@ TCC-ESCOLAR/
 │   ├── ⚡ JS/                 # Scripts JavaScript
 │   │   └── scripts.js         # Funcionalidades
 │   │
-│   └── 🖼️ IMAGES/            # Imagens e recursos visuais
-│       └── pasta com as img/            # Recursos do projeto
+│   └── 🖼️ pasta com as img/            # Imagens e recursos visuais
+│       └── Imagens            # Recursos do projeto
 │
 └── 📄 README.md              # Documentação do projeto
 ```
