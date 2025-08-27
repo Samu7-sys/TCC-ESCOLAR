@@ -83,26 +83,6 @@ TCC-ESCOLAR/
 └── 📄 README.md              # Documentação do projeto
 ```
 
----
-
-## 🚀 **COMO ACESSAR**
-
-### 1️⃣ **Online (GitHub Pages)**
-Acesse diretamente pelo link: [https://samu7-sys.github.io/TCC-ESCOLAR/](https://samu7-sys.github.io/TCC-ESCOLAR/)
-
-### 2️⃣ **Local**
-```bash
-# Clone o repositório
-git clone https://github.com/Samu7-sys/TCC-ESCOLAR.git
-
-# Entre na pasta do projeto
-cd TCC-ESCOLAR
-
-# Abra o index.html no seu navegador
-```
-
----
-
 ## 🎓 **DESENVOLVIMENTO**
 
 - **👨‍💻 Desenvolvedor:** [Samu7-sys](https://github.com/Samu7-sys)
