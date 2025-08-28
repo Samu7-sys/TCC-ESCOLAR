@@ -21,8 +21,7 @@ Este é um projeto escolar desenvolvido como Trabalho de Conclusão de Curso (TC
 - ✅ Criar sistema de **cadastro e login** de usuários
 - ✅ Implementar **carrinho de compras** interativo
 - ✅ Demonstrar **design responsivo** e interface intuitiva
-- 🔄 **Futuro:** Integração com banco de dados para persistência
-- 🔄 **Futuro:** Sistema de pagamento e finalização de pedidos
+- 🔄 **Futuro:** Integração com banco de dados, sistema de pagamento e finalização de pedidos
 
 ---
 
