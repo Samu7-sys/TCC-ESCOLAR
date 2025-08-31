@@ -3,32 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Suporte - Sua Loja</title>
-    <link rel="stylesheet" href="../css/suporte.css">
+    <title>Login - ESPORT LIFE</title>
+    <link rel="stylesheet" href="/css/login.css">
 </head>
 <body>
-    <div class="login-container-support-container">
-        <h1>Precisa de Ajuda?</h1>
-        <form class="login-form support-form">
-            <label for="name">Seu Nome:</label>
-            <input type="text" id="name" name="name" placeholder="Digite seu nome">
-
-            <label for="email">Seu Email:</label>
-            <input type="email" id="email" name="email" placeholder="Digite seu email">
-
-            <label for="subject">Assunto:</label>
-            <input type="text" id="subject" name="subject" placeholder="Qual o assunto?">
-
-            <label for="message">Mensagem:</label>
-            <textarea id="message" name="message" placeholder="Descreva sua dúvida ou problema"></textarea>
-
-            <button type="submit">Enviar Mensagem</button>
+    <div class="login-container fade-in-up">
+        <div class="logo">
+            EL
+            <span>ESPORT LIFE</span>
+        </div>
+        <div class="welcome-text">
+            <h1>Que bom ter você aqui!</h1>
+            <p>Entre e aproveite o melhor da ESPORT LIFE</p>
+        </div>
+        <form class="login-form">
+            <div class="input-group">
+                <label for="login">Informe CPF, CNPJ ou E-mail</label>
+                <input type="text" id="login" name="login" placeholder="CPF,CNPJ ou e-mail" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Informe sua senha</label>
+                <div class="password-input">
+                    <input type="password" id="password" name="password" placeholder="Senha" required>
+                    <span class="toggle-password"><i class="far fa-eye"></i></span>
+                </div>
+            </div>
+            <div class="forgot-password">
+                <a href="/html/cadastro.html">Nao tem conta? aperte aqui</a>
+            </div>
+            <button type="submit" class="login-button">Entrar</button>
         </form>
-        <div class="support-options">
-            Ou entre em contato por <a href="#">chat ao vivo</a> ou ligue para <a href="#">(19) 992868978</a>.
+        <div class="create-account">
+            <button class="create-account-button">Criar conta ESPORT LIFE</button>
+        </div>
+        <div class="separator">
+            <hr>
+            <span>ou</span>
+            <hr>
+        </div>
+        <button class="google-login">
+            <i class="fab fa-google"></i>
+            Entrar com o Google
+        </button>
+        <div class="help-link">
+            <a href="#">Precisa de ajuda?</a>
         </div>
     </div>
+    <div class="security-info">
+        <i class="fas fa-lock"></i>
+        Ambiente 100% seguro
+    </div>
 </body>
-
 </html>
-
