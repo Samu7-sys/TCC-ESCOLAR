@@ -50,6 +50,9 @@ Este é um projeto escolar desenvolvido como Trabalho de Conclusão de Curso (TC
 | 🔑 **Login** | [Área de Login](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/login.html) | Acesso à conta |
 | 🛒 **Carrinho** | [Carrinho de Compras](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/carrinho.html) | Itens selecionados |
 | 💳 **Compra** | [Finalizar Compra](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/compra.html) | Checkout e pagamento |
+| 💳 **Compra 2** | [Opção Compra 2](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/compra2.html) | Checkout alternativo |
+| 💳 **Compra 3** | [Opção Compra 3](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/compra3.html) | Terceira opção de compra |
+| 💳 **Compra 4** | [Opção Compra 4](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/compra4.html) | Quarta opção de compra |
 | 🆘 **Suporte** | [Atendimento](https://Samu7-sys.github.io/TCC-ESCOLAR/TCC/html/suporte.html) | Central de ajuda |
 
 </div>
@@ -66,7 +69,10 @@ TCC-ESCOLAR/
 │   │   ├── 📄 cadastro.html   # Página de cadastro
 │   │   ├── 📄 carrinho.html   # Carrinho de compras
 │   │   ├── 📄 compra.html     # Finalização da compra
-│   │   ├── 📄 indice.html     # Página índice
+│   │   ├── 📄 compra2.html    # Opção de compra 2
+│   │   ├── 📄 compra3.html    # Opção de compra 3
+│   │   ├── 📄 compra4.html    # Opção de compra 4
+│   │   ├── 📄 index.html      # Página principal
 │   │   ├── 📄 login.html      # Página de login
 │   │   └── 📄 suporte.html    # Página de suporte
 │   │
